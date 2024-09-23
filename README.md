@@ -1,1 +1,1 @@
-# This is a repository of a collection of images based off of the theme 'Anthropocene'.
+# This is a repository of a collection of images based on the theme 'Anthropocene'.
